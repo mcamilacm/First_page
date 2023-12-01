@@ -1,0 +1,19 @@
+header {
+  background-image: url("../imgs/Pelicanos.png");
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: rgb(130, 209, 249);
+}
+
+.despedida {
+  color: blue;
+}
